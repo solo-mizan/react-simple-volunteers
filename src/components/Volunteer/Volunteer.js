@@ -4,7 +4,7 @@ import './Volunteer.css';
 const Volunteer = () => {
     return (
         <div>
-            
+            <h1>This is Volunteer page...</h1>
         </div>
     );
 };
